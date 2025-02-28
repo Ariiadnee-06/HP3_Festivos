@@ -1,0 +1,12 @@
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.deps.json
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.dll
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.pdb
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.csproj.AssemblyReference.cache
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.AssemblyInfoInputs.cache
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.AssemblyInfo.cs
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.dll
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\refint\HP3_Evaluacion1.Dominio.dll
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.pdb
+C:\Users\FREDY\Downloads\HP3_Evaluacion1-main\HP3_Evaluacion1.Dominio\obj\Debug\net8.0-windows\ref\HP3_Evaluacion1.Dominio.dll
