@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HP3_Evaluacion1.Dominio.Entidades
@@ -6,23 +6,27 @@ namespace HP3_Evaluacion1.Dominio.Entidades
     [Table("Festivo")]
     public class Festivo
     {
+
         [Column("Id")]
         public int Id { get; set; }
 
+        [Column("pkFestivo_Id")]
+        public int pkFestivo_Id { get; set; }
+
         [Column("Nombre"), StringLength(100)]
-        public string Nombre { get; set; }
+        public required string Nombre { get; set; }
 
         [Column("Dia")]
-        public int Dia { get; set; }
+        public required int Dia { get; set; }
 
         [Column("Mes")]
-        public int Mes { get; set; }
+        public required int Mes { get; set; }
 
         [Column("DiasPascua")]
-        public int DiasPascua { get; set; }
+        public required int DiasPascua { get; set; }
 
         //Foreign Key
-        [Column("IdTipo")]
+        [Column("fkFestivo_Tipo")]
         public int IdTipo { get; set; }
         public Tipo Tipo { get; set; }
     }
