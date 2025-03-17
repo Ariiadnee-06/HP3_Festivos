@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HP3_Evaluacion1.Core\HP3_Evaluacion1.Core.csproj" />
+    <ProjectReference Include="..\HP3_Evaluacion1.Dominio\HP3_Evaluacion1.Dominio.csproj" />
+    <ProjectReference Include="..\HP3_Evaluacion1.Persistencia\HP3_Evaluacion1.Persistencia.csproj" />
+  </ItemGroup>
+
+</Project>
