@@ -1,29 +1,29 @@
+using Festivos.Core.Repositorios;
 using HP3_Evaluacion1.Core.Repositorios;
 using HP3_Evaluacion1.Dominio.Entidades;
-using HP3_Evaluacion1.Persistencia.Contexto;
 using Microsoft.EntityFrameworkCore;
 
 namespace HP3_Evaluacion1.Infraestructura.Repositorios
 {
     public class TipoRepositorio : ITipoRepositorio
     {
-        private readonly Festivos context;
+        private readonly Festivo context;
 
-        public TipoRepositorio(Festivos context)
+        public TipoRepositorio(Festivo context)
         {
             this.context = context;
         }
 
         public async Task<Tipo> Agregar(Tipo tipo)
         {
-            context.Tipos.Add(tipo);
+            context.Tipo.Add(tipo);
             await context.SaveChangesAsync();
             return tipo;
         }
 
         public async Task<IEnumerable<Tipo>> Buscar(string dato)
         {
-            return await context.Tipos
+            return await context.Tipo
                 .Where(item => item.Nombre.Contains(dato))
                 .ToListAsync();
         }
@@ -32,7 +32,7 @@ namespace HP3_Evaluacion1.Infraestructura.Repositorios
         {
             var tipo = await context.Tipos.FindAsync(id);
             if (tipo == null) return false;
-
+                
             try
             {
                 context.Tipos.Remove(tipo);
@@ -42,7 +42,7 @@ namespace HP3_Evaluacion1.Infraestructura.Repositorios
             catch (Exception ex)
             {
                 return false;
-            }  
+            }   
         }
 
         public async Task<Tipo> Modificar(Tipo tipo)
