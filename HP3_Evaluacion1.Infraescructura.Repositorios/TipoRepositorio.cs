@@ -33,9 +33,16 @@ namespace HP3_Evaluacion1.Infraestructura.Repositorios
             var tipo = await context.Tipos.FindAsync(id);
             if (tipo == null) return false;
 
-            context.Tipos.Remove(tipo);
-            await context.SaveChangesAsync();
-            return true;
+            try
+            {
+                context.Tipos.Remove(tipo);
+                await context.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }  
         }
 
         public async Task<Tipo> Modificar(Tipo tipo)
