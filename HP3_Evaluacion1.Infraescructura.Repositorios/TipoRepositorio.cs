@@ -1,29 +1,30 @@
 using Festivos.Core.Repositorios;
+using FestivosApp.Persistencia.Contexto;
 using HP3_Evaluacion1.Core.Repositorios;
 using HP3_Evaluacion1.Dominio.Entidades;
 using Microsoft.EntityFrameworkCore;
 
-namespace HP3_Evaluacion1.Infraestructura.Repositorios
+namespace FestivosApp.Persistencia.Contexto
 {
     public class TipoRepositorio : ITipoRepositorio
     {
-        private readonly Festivo context;
+        private readonly FestivosContext context;
 
-        public TipoRepositorio(Festivo context)
+        public TipoRepositorio(FestivosContext context)
         {
             this.context = context;
         }
 
         public async Task<Tipo> Agregar(Tipo tipo)
         {
-            context.Tipo.Add(tipo);
+            context.Tipos.Add(tipo);
             await context.SaveChangesAsync();
             return tipo;
         }
 
         public async Task<IEnumerable<Tipo>> Buscar(string dato)
         {
-            return await context.Tipo
+            return await context.Tipos
                 .Where(item => item.Nombre.Contains(dato))
                 .ToListAsync();
         }
