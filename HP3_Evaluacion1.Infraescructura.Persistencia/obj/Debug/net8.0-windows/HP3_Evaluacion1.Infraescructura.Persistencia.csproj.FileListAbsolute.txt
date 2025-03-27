@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\bin\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.deps.json
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\bin\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.dll
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\bin\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.pdb
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.dll
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.pdb
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.sourcelink.json
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Eval.7D065588.Up2Date
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.dll
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\refint\HP3_Evaluacion1.Infraescructura.Persistencia.dll
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\HP3_Evaluacion1.Infraescructura.Persistencia.pdb
+C:\Users\Usuario\Downloads\HP3_Festivos\HP3_Evaluacion1.Infraescructura.Persistencia\obj\Debug\net8.0-windows\ref\HP3_Evaluacion1.Infraescructura.Persistencia.dll
