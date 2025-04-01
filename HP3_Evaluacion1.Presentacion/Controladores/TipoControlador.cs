@@ -1,9 +1,9 @@
-﻿using Festivos.Core.Servicios;
+using Festivos.Core.Servicios;
 using HP3_Evaluacion1.Core.Servicios;
 using HP3_Evaluacion1.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CampeonatosFIFA.Presentacion.Controllers
+namespace HP3_Evaluacion1.Presentacion.Controllers
 {
     [ApiController]
     [Route("api/Tipo")]
