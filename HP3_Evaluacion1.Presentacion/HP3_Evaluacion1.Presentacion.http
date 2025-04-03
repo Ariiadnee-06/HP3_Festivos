@@ -1,0 +1,6 @@
+@HP3_Evaluacion1.Presentacion_HostAddress = http://localhost:5267
+
+GET {{HP3_Evaluacion1.Presentacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
