@@ -1,0 +1,15 @@
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\bin\Debug\net8.0-windows\HP3_Evaluacion1.Core.deps.json
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\bin\Debug\net8.0-windows\HP3_Evaluacion1.Core.dll
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\bin\Debug\net8.0-windows\HP3_Evaluacion1.Core.pdb
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.dll
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\bin\Debug\net8.0-windows\HP3_Evaluacion1.Dominio.pdb
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.csproj.AssemblyReference.cache
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.AssemblyInfoInputs.cache
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.AssemblyInfo.cs
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.csproj.CoreCompileInputs.cache
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Eval.D5971B32.Up2Date
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.dll
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\refint\HP3_Evaluacion1.Core.dll
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\HP3_Evaluacion1.Core.pdb
+C:\Users\FREDY\Desktop\SAY\PROYECTS\HP3_Festivos-main\HP3_Evaluacion1.Core\obj\Debug\net8.0-windows\ref\HP3_Evaluacion1.Core.dll

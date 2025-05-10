@@ -7,8 +7,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\HP3_Evaluacion1.Dominio\HP3_Evaluacion1.Dominio.csproj" />
+=======
+  <ItemGroup>
+    <ProjectReference Include="..\HP3_Evaluacion1.Dominio\HP3_Evaluacion1.Dominio.csproj" />
+>>>>>>> 6331e77 (Agregar archivos de proyecto.)
   </ItemGroup>
 
 </Project>
